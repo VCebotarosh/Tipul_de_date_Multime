@@ -1,3 +1,4 @@
+#In aceasta versiune valorile care nu corespund cerintelor doar se omit si programul opereaza cu valorile care satisfac conditia
 multime=input("Dati elementele primei multimi: ")
 multime=list(multime.strip().split(" "))
 multimea_a=set(multime)
